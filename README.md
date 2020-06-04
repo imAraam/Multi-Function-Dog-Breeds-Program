@@ -1,4 +1,4 @@
-# Assignment Description
+## Assignment Description
 
 Apply the test-driven development approach to the development of functional-style code written
 in the Haskell programming language. Choose any algorithm/application to
